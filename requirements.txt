@@ -1,0 +1,8 @@
+# Air-Cipher v3.0 — MediaPipe edition
+# No TensorFlow required.
+#
+# Apple Silicon (M1/M2/M3): all three packages have native arm64 wheels.
+# Install with:  pip install -r requirements.txt
+mediapipe>=0.10.0
+opencv-python>=4.8.0
+numpy>=1.24.0
